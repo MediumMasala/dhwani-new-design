@@ -3,5 +3,9 @@ dist
 .DS_Store
 .env
 
-# Ignore the output video from Git but not videos you import into src/.
-out
+# Rendered output. "out" is a symlink to ~/Desktop/motion-renders, so every
+# render — CLI or the Studio's Render button — lands in that Desktop folder.
+/out
+
+# Local Claude Code permissions, per-machine.
+.claude/settings.local.json

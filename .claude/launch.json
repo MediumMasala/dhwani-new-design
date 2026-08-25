@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "remotion-studio",
+      "runtimeExecutable": "/Users/dhwanidodia/.nvm/versions/node/v24.19.0/bin/node",
+      "runtimeArgs": [
+        "/Users/dhwanidodia/.nvm/versions/node/v24.19.0/lib/node_modules/npm/bin/npm-cli.js",
+        "run",
+        "studio",
+        "--",
+        "--port=3333"
+      ],
+      "port": 3333,
+      "autoPort": false
+    }
+  ]
+}

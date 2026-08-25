@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <!-- PLACEHOLDER. Replace this file with the real logo (transparent PNG/SVG, white mark). -->
+  <path d="M200 20 C 100 20, 20 96, 20 196 C 20 300, 140 400, 200 500
+           C 260 400, 380 300, 380 196 C 380 96, 300 20, 200 20 Z" fill="#ffffff"/>
+  <path d="M232 96 L 150 96 C 122 96, 108 118, 108 142 C 108 166, 124 184, 152 184
+           L 236 184 L 236 236 L 150 236" fill="none" stroke="#FC8019" stroke-width="34"
+        stroke-linecap="square"/>
+</svg>

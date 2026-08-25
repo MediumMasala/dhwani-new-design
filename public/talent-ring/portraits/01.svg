@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <!-- PLACEHOLDER PORTRAIT. Replace with a real photo, pre-cropped square-ish. -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8E9AA6"/><stop offset="1" stop-color="#5C6874"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg)"/>
+  <circle cx="400" cy="330" r="150" fill="#C89A78"/>
+  <path d="M120 800 C 140 610, 260 520, 400 520 C 540 520, 660 610, 680 800 Z" fill="#1B1E22"/>
+  <text x="400" y="770" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="34" font-weight="600" letter-spacing="6" fill="#ffffff" opacity="0.55">PORTRAIT 01</text>
+</svg>

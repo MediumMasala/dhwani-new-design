@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" width="600" height="480">
+  <!-- PLACEHOLDER. Replace this file with the real logo (transparent PNG/SVG). -->
+  <text x="300" y="330" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="400" font-weight="500" fill="#111111">a</text>
+  <path d="M96 372 C 210 452, 396 452, 500 380" stroke="#FF9900" stroke-width="34"
+        stroke-linecap="round" fill="none"/>
+  <path d="M470 356 L 514 374 L 486 412 Z" fill="#FF9900"/>
+</svg>
