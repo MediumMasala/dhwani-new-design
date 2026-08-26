@@ -9,3 +9,6 @@ dist
 
 # Local Claude Code permissions, per-machine.
 .claude/settings.local.json
+
+# remotion bundle output
+/build
